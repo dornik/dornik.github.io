@@ -57,35 +57,35 @@
       institution: TU Wien, Vienna
       year: 2022
       description:
-        - Thesis: "Visually and Physically Plausible Object Pose Estimation for Robot Vision", with distinction
-        - Advisor: Markus Vincze
-        - Committee: Federico Tombari, Markus Rupp
+        - Thesis&#58; "Visually and Physically Plausible Object Pose Estimation for Robot Vision", with distinction
+        - Advisor&#58; Markus Vincze
+        - Committee&#58; Federico Tombari, Markus Rupp
     - title: Master in Visual Computing
       institution: TU Wien, Vienna
       year: 2018
       description:
-        - Thesis: "Evaluation of the Recognition Distances of Safety Signs in VR Considering Vision Impairments", with distinction
-        - Advisor: Michael Wimmer
+        - Thesis&#58; "Evaluation of the Recognition Distances of Safety Signs in VR Considering Vision Impairments", with distinction
+        - Advisor&#58; Michael Wimmer
     - title: Bachelor in Media Informatics and Visual Computing
       institution: TU Wien, Vienna
       year: 2015
       description:
-        - Thesis: "Development of a Stereo Video See-Through Head-Mounted Display", with distinction
-        - Advisor: Hannes Kaufmann
+        - Thesis&#58; "Development of a Stereo Video See-Through Head-Mounted Display", with distinction
+        - Advisor&#58; Hannes Kaufmann
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

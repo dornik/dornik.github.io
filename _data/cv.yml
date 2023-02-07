@@ -2,82 +2,76 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dominik Bauer
     - name: Date of Birth
-      value: 14th March 1879
+      value: May 8, 1992
     - name: Languages
       value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Research Fellow
+      institution: Columbia AI and Robotics Lab, Columbia University, New York
+      year: since 03/2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - PI of the <a href="https://list.fwf.ac.at/en/research-in-practice/in-the-spotlight-schroedinger/list-of-schroedinger-fellows/2022/418506">FWF project Making Sense of Objects from Exploratory Robotic Interaction</a>, investigating continuous object and interaction learning.
+    - title: Postdoctoral Researcher
+      institution: Vision for Robotics Lab, TU Wien, Vienna
+      year: 04/2022 - 02/2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Investigated robot vision methods for transparent & deformable objects in the <a href="https://www.tracebot.eu/">H2020 project TraceBOT</a>, enabling traceable robotic manipulation.
+    - title: Research Assistant
+      institution: Vision for Robotics Lab, TU Wien, Vienna
+      year: 10/2018 - 03/2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Developed object pose estimation and verification methods for robotic grasping using learning-, simulation- and rendering-based approaches in the <a href="https://heap-chist-era.github.io/">CHIST-ERA project Heap</a> and the <a href="http://trustrobots.eu/">doctoral college TrustRobots</a>.
+    - title: Research Intern
+      institution: Virtual Reality Group, TU Wien, Vienna - Illusion Walk, Berlin
+      year: 07/2016 - 08/2016
+      description:
+        - Implemented and optimized a GPU-based multi-marker tracking pipeline for large-scale VR applications, from camera input to pose output.
+    - title: Teaching Assistant
+      institution: Research Unit of Computer Graphics, TU Wien, Vienna
+      year: 2014 - 2017
+      description:
+        - Tutored courses in Computer Graphics, Virtual and Augmented Reality.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2022
+      items:
+        - <a href="https://www.fwf.ac.at/en/research-funding/fwf-programmes/schroedinger-programme">Erwin Schrödinger Fellowship</a>, Austrian Science Fund (FWF)
+    - year: 2018
+      items:
+        - <a href="https://informatics.tuwien.ac.at/epilog/distinguished-young-alumn/">Distinguished Young Alumnus</a> of the Faculty of Informatics, TU Wien
+    - year: 2014 - 2017
+      items:
+        - Merit-based scholarships, TU Wien
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Robot Vision
+      institution: TU Wien, Vienna
+      year: 2022
+      description:
+        - Thesis: "Visually and Physically Plausible Object Pose Estimation for Robot Vision", with distinction
+        - Advisor: Markus Vincze
+        - Committee: Federico Tombari, Markus Rupp
+    - title: Master in Visual Computing
+      institution: TU Wien, Vienna
+      year: 2018
+      description:
+        - Thesis: "Evaluation of the Recognition Distances of Safety Signs in VR Considering Vision Impairments", with distinction
+        - Advisor: Michael Wimmer
+    - title: Bachelor in Media Informatics and Visual Computing
+      institution: TU Wien, Vienna
+      year: 2015
+      description:
+        - Thesis: "Development of a Stereo Video See-Through Head-Mounted Display", with distinction
+        - Advisor: Hannes Kaufmann
 
 - title: Academic Interests
   type: nested_list

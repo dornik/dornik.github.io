@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.acin.tuwien.ac.at/en/vision-for-robotics/'>Vision for Robotics, Automation and Control Institute, TU Wien</a>
+subtitle: <a href='https://cair.cs.columbia.edu/'>Columbia Artificial Intelligence and Robotics (CAIR) Lab</a>
 
 [//]: # (profile:)
 
@@ -22,7 +22,7 @@ subtitle: <a href='https://www.acin.tuwien.ac.at/en/vision-for-robotics/'>Vision
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)

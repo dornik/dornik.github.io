@@ -1,14 +1,4 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Dominik Bauer
-    - name: Date of Birth
-      value: May 8, 1992
-    - name: Languages
-      value: English, German
-
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
@@ -40,15 +30,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - <a href="https://www.fwf.ac.at/en/about-the-fwf/private-donations-to-research/funding-opportunities-alpha-foundation/rueckenwind-funding-bonus">Rueckenwind Funding Bonus</a>, alpha+ Foundation
     - year: 2022
       items:
         - <a href="https://www.fwf.ac.at/en/research-funding/fwf-programmes/schroedinger-programme">Erwin Schrödinger Fellowship</a>, Austrian Science Fund (FWF)
     - year: 2018
       items:
         - <a href="https://informatics.tuwien.ac.at/epilog/distinguished-young-alumn/">Distinguished Young Alumnus</a> of the Faculty of Informatics, TU Wien
+    - year: 2017
+      items:
+        - <a href="https://informatics.tuwien.ac.at/study-services/scholarships/">Funding Grant</a>, TU Wien
     - year: 2014 - 2017
       items:
-        - Merit-based scholarships, TU Wien
+        - <a href="https://informatics.tuwien.ac.at/study-services/scholarships/">Merit Scholarship Grant</a>, TU Wien
 
 - title: Education
   type: time_table
@@ -70,8 +66,21 @@
       institution: TU Wien, Vienna
       year: 2015
       description:
-        - Thesis&#58; "Development of a Stereo Video See-Through Head-Mounted Display", with distinction
+        - Thesis&#58; "Development of a Stereo Video See-Through Head-Mounted Display"
         - Advisor&#58; Hannes Kaufmann
+
+- title: Teaching and Academic Service
+  type: map
+  contents:
+    - name: Teaching
+      value: (co-)supervision of Master and Bachelor students, "Introduction to Visual Computing" lecture with exercises (summer 2014-2017), "Introduction to Computer Graphics" lab exercise (winter 2014/15, 2015/16), "Virtual and Augmented Reality" lab exercise (winter 2016/17)
+    - name: Reviewing
+      value: RSS 2023, ICRA 2021 and 2022, IROS 2021, IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Multimedia
+    - name: Committees
+      value: <a href="https://icvs2023.conf.tuwien.ac.at/">ICVS 2023</a> (Publication Chair)
+    - name: Science Communication
+      value: <a href="https://pintofscience.com/">Pint of Science 2022</a>, Trust Robots lecture series ("Visual and Physical Plausibility in Object Pose Estimation"), Responsible Robotics ("How robots see the things in our homes")
+
 
 #- title: Academic Interests
 #  type: nested_list

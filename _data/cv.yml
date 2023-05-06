@@ -70,16 +70,31 @@
         - Advisor&#58; Hannes Kaufmann
 
 - title: Teaching and Academic Service
-  type: map
+  type: nested_list
   contents:
-    - name: Teaching
-      value: (co-)supervision of Master and Bachelor students, "Introduction to Visual Computing" lecture with exercises (summer 2014-2017), "Introduction to Computer Graphics" lab exercise (winter 2014/15, 2015/16), "Virtual and Augmented Reality" lab exercise (winter 2016/17)
-    - name: Reviewing
-      value: RSS 2023, ICRA 2021 and 2022, IROS 2021, IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Multimedia
-    - name: Committees
-      value: <a href="https://icvs2023.conf.tuwien.ac.at/">ICVS 2023</a> (Publication Chair)
-    - name: Science Communication
-      value: <a href="https://pintofscience.com/">Pint of Science 2022</a>, Trust Robots lecture series ("Visual and Physical Plausibility in Object Pose Estimation"), Responsible Robotics ("How robots see the things in our homes")
+    - title: Teaching Experience
+      items:
+        - Introduction to Visual Computing (Teaching Assistant, summer 2014-2017)
+        - Virtual and Augmented Reality (Teaching Assistant, winter 2016)
+        - Introduction to Computer Graphics (Teaching Assistant, winter 2014-2015)
+    - title: (Co-)Supervision
+      items:
+        - Object Pose Tracking using a Reinforced Agent (Konstantin Röhrl, Master, 2022/23)
+        - Inverse Rendering for Transparent Object Pose Estimation (Negar Layegh, Master, 2022/23)
+        - Evaluation of Vision-based Tactile Sensors (Robert Tamas, Bachelor, 2021/22)
+        - Verification-based Grasping Pipeline for the Toyota HSR (Stefan Spettel, Bachelor, 2019/20)
+    - title: Reviewing
+      items:
+        - Conferences: RSS 2023, ICRA 2021 and 2022, IROS 2021
+        - Journals: International Journal of Computer Vision (IJCV), IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Multimedia (TMM)
+    - title: Committees
+      items:
+        - <a href="https://icvs2023.conf.tuwien.ac.at/">ICVS 2023</a> (Publication Chair)
+    - title: Science Communication
+      items:
+        - <a href="https://pintofscience.com/">Pint of Science 2022</a>
+        - Trust Robots lecture series ("Visual and Physical Plausibility in Object Pose Estimation")
+        - Responsible Robotics ("How robots see the things in our homes")
 
 
 #- title: Academic Interests

@@ -21,11 +21,6 @@
       year: 07/2016 - 08/2016
       description:
         - Implemented and optimized a GPU-based multi-marker tracking pipeline for large-scale VR applications, from camera input to pose output.
-    - title: Teaching Assistant
-      institution: Research Unit of Computer Graphics, TU Wien, Vienna
-      year: 2014 - 2017
-      description:
-        - Tutored courses in Computer Graphics, Virtual and Augmented Reality.
 
 - title: Honors and Awards
   type: time_table

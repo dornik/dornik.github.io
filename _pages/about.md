@@ -2,22 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cair.cs.columbia.edu/'>Columbia Artificial Intelligence and Robotics (CAIR) Lab</a>
+[//]: # subtitle: <a href='https://cair.cs.columbia.edu/'>Columbia Artificial Intelligence and Robotics (CAIR) Lab</a>
 
-[//]: # (profile:)
-
-[//]: # (  align: right)
-
-[//]: # (  image: prof_pic.jpg)
-
-[//]: # (  image_circular: false # crops the image to make it circular)
-
+(profile:)
+(  align: right)
+(  image: prof_pic.jpg)
+(  image_circular: true # crops the image to make it circular)
 [//]: # (  address: >)
-
 [//]: # (    <p>555 your office number</p>)
-
 [//]: # (    <p>123 your address street</p>)
-
 [//]: # (    <p>Your City, State 12345</p>)
 
 news: false  # includes a list of news items
@@ -25,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
+I am a postdoctoral research fellow working with [Shuran Song](https://www.cs.columbia.edu/~shurans/) at the [Columbia Artificial Intelligence and Robotics lab (CAIR)](https://cair.cs.columbia.edu/), Columbia University. Before joining her lab, I was a postdoctoral researcher at the [Vision for Robotics lab (V4R)](https://www.acin.tuwien.ac.at/en/vision-for-robotics/) at TU Wien, advised by [Markus Vincze](https://www.acin.tuwien.ac.at/en/staff/vm/).
+
+I am interested in robot vision approaches that perceive, learn and leverage geometrical and physical principles for scene understanding and manipulation. My research goal is to enable robots to autonomously learn these capabilities in novel situations from exploratory interaction.
 
 [//]: # ()
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)

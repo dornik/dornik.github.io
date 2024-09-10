@@ -2,7 +2,7 @@ github_users:
   - dornik
 
 github_repos:
+  - dornik/doughnet
   - dornik/sporeagent
   - dornik/reagent
   - dornik/verefine
-  - dornik/plausible-poses

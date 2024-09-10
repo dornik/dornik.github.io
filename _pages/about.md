@@ -16,4 +16,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a postdoctoral research fellow at the [Robotics and Embodied Artificial Intelligence Lab (REAL)](https://real.stanford.edu/) at Stanford University and Columbia University, working with [Shuran Song](https://shurans.github.io/).
 
-My research focuses on perception and learning of geometrical and physical principles for state estimation, dynamics prediction and manipulation. Through these capabilities, I want to enable robots to adapt to novel situations and learn from interactions with their environment.
+My research focuses on perception and learning of geometrical and physical principles for state estimation, dynamics prediction and manipulation. Through these capabilities, my aim is to enable robots to adapt to novel situations and learn from interactions with their environment.

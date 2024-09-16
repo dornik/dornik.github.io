@@ -49,8 +49,6 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -67,7 +65,7 @@ github_username: dornik # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: dominik-bauer-36171a200 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 4KgUhEEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID

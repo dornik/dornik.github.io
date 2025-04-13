@@ -15,6 +15,6 @@ years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]  # years to include for 
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral research fellow at the [Robotics and Embodied Artificial Intelligence Lab (REAL)](https://real.stanford.edu/) at Stanford University and Columbia University, working with [Shuran Song](https://shurans.github.io/).
+I am a Machine Learning Engineer at [Latitude AI](https://lat.ai/).
 
-My research focuses on perception and learning of geometrical and physical principles for state estimation, dynamics prediction and manipulation. My aim is to enable robots to adapt to novel situations and learn from interactions with their environment.
+Before that, I was a Postdoctoral Research Fellow at the [Robotics and Embodied Artificial Intelligence Lab (REAL)](https://real.stanford.edu/) at Stanford University and Columbia University, and the [Vision for Robotics Lab (V4R)](https://www.acin.tuwien.ac.at/en/vision-for-robotics/) at TU Wien.
